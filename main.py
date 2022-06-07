@@ -1,6 +1,5 @@
 import random
 # Instruction for the game
-# performstring concatenation of string
 print('''
 Winning Rules of the Rock paper scissor game as follows:
 Rock vs paper->Paper wins
